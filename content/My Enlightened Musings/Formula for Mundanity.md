@@ -4,6 +4,7 @@ date: 2024-01-31
 tags: ["self-reflection", "philosophy", "routine"]
 ---
 
+
 Many of us, at some point, have come to a realization: days can pass without us truly taking the time to think deeply. Of course, we're always engaged in some form of thought, but acting in a way that genuinely reflects our individual desires and choices seems increasingly rare.
 
 Often, we find ourselves caught up in actions we feel obligated to perform. This sense of obligation doesn't necessarily make these actions unpleasant, but they do carry an automatic, unreflective quality. Whether it's work, completing tasks, or even socializing with friends, there’s an underlying notion of necessity. We might enjoy these activities, but they're often tinged with a sense of "I must do this."

@@ -4,6 +4,8 @@ date: 2024-05-14
 tags: ["mathematics", "relationships", "friendship"]
 ---
 
+[Substack link](https://viraat.substack.com/p/your-friends-should-be-dateable)
+
 <div style="text-align: center;">
   <img src="enlightenment.png" alt="" style="width: 50%; height: auto;">
 </div>
