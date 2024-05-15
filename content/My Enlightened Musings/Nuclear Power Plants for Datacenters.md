@@ -48,3 +48,34 @@ This heat is transferred to a coolant, such as:
 1. **Water**: Used in pressurized water reactors (PWRs) or boiling water reactors
 (BWRs).
 2. **Gas**: Employed in gas-cooled reactors (GCRs).
+
+**Steam Generation**
+The heated coolant transfers its energy to a steam generator, producing
+high-pressure steam.
+
+
+**Turbine and Generator**
+The steam drives a turbine, which is connected to an electrical generator. As the
+turbine spins, it converts the mechanical energy into electrical energy (AC
+power).
+
+
+**Cooling Systems**
+To prevent overheating, nuclear power plants use various cooling systems:
+
+1. **Primary Cooling**: The coolant loop that transfers heat from the reactor.
+2. **Secondary Cooling**: A separate loop that removes excess heat and sends it to
+a condenser or heat exchanger.
+
+
+**Safety Features**
+Nuclear power plants have numerous safety features to prevent accidents and
+mitigate their consequences:
+
+1. **Containment Building**: A reinforced structure surrounding the reactor,
+designed to prevent radioactive releases.
+2. **Emergency Core Cooling Systems (ECCS)**: Automatic systems that inject
+coolant into the reactor in case of an emergency.
+3. **Control Rods**: As mentioned earlier, these rods regulate the reaction and
+can be used to quickly shut down the reactor.
+
