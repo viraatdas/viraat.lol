@@ -1,0 +1,2 @@
+- [Calendly](calendly.com/viraat)
+- [Email](viraat@inferent.io): viraat@inferent.io
