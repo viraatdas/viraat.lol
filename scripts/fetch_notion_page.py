@@ -5,6 +5,7 @@ from notion2md.exporter.block import StringExporter
 
 def fetch_notion_page(notion_api_key, page_id):
     md = convert_to_markdown(page_id)
+    print(md)
     with open('content/index.md', 'w') as f:
             f.write(md)
 
