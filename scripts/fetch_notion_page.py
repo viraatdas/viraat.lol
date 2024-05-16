@@ -12,6 +12,7 @@ def fetch_notion_page(notion_api_key, page_id):
 
 def convert_to_markdown(page_id):
     md = StringExporter(block_id=page_id).export()
+    print(md)
     return md
     
 if __name__ == "__main__":

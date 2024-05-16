@@ -22,6 +22,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests notion-client notion2md
+          notion2md --unzipped --download -n 829d0531-9697-4619-9f8b-c5f12aefda5b -p content/index.md -u https://www.notion.so/829d0531969746199f8bc5f12aefda5b
 
       - name: Fetch Notion page
         env:
