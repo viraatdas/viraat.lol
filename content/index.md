@@ -1,3 +1,9 @@
+---
+
+title: Content Feed
+
+---
+
 *Curious what Viraat is consuming? No? Still consume and become smarter.*
 
 ## April 24, 2024
@@ -14,15 +20,15 @@
 
 1. **Traffic signals**
 
-	[Something Fascinating About Traffic Signals! #educational](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
+	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
 
 1. **All three holes**
 
-	[All Three Holes #engineering #electricity #electrician #educational #outlet #american #energy](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
+	[All Three Holes](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
 
 1. **Colorada isn’t a perfect rectangle**
 
-	[Most ppl don’t know Colorado is not a perfect rectangle 😳😳 #map #geography](https://youtube.com/shorts/mg0uw0kx_Dk?si=IFqxQU-G_YROQMdp)
+	[Most ppl don’t know Colorado is not a perfect rectangle](https://youtube.com/shorts/mg0uw0kx_Dk?si=IFqxQU-G_YROQMdp)
 
 ## March 1, 2024
 
@@ -40,11 +46,11 @@
 
 1. **Brains are decoders**
 
-	[Viraat Das 🐪 on Twitter / X](https://x.com/therealviraat/status/1760172810083696998?s=20)
+	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
 
 1. **GPT tokenizer**
 
-	[Andrej Karpathy on Twitter / X](https://x.com/karpathy/status/1759996549109776702?s=20)
+	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
 
 1. **Hacking car entrance**
 
@@ -52,11 +58,11 @@
 
 1. **Technical accessibility**
 
-	[Andrej Karpathy on Twitter / X](https://x.com/karpathy/status/1760388761349927356?s=20)
+	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1760388761349927356?s=20)
 
 1. **Writing musically**
 
-	[Blake Emal on Twitter / X](https://x.com/heyblake/status/1760112040167776281?s=20)
+	[Blake Emal on Twitter](https://x.com/heyblake/status/1760112040167776281?s=20)
 
 ## February 20, 2024
 
@@ -192,9 +198,9 @@
 
 1. **Interesting windmill IMO problem**
 
-	[The unexpectedly hard windmill question (2011 IMO, Q2)](https://youtu.be/M64HUIJFTZM?si=8c8IJqMr1fbpkWtD)
+	[The unexpectedly hard windmill question](https://youtu.be/M64HUIJFTZM?si=8c8IJqMr1fbpkWtD)
 
 1. **Interesting M3 benchmark setup**
 
-	[Tracking developer build times to decide if the M3 MacBook is worth upgrading | incident.io](https://incident.io/blog/festive-macbooks)
+	[Tracking developer build times](https://incident.io/blog/festive-macbooks)
 
