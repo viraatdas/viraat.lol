@@ -4,45 +4,52 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.MobileOnly(
+      Component.ExplorerBurger({
+        folderDefaultState: "open",
+        folderClickBehavior: "link",
+      }),
+    ),
+    Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.PageTitle()),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/viraatdas/viraat.lol",
+      Github: "https://github.com/viraatdas/viraat.lol/",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showReadingTime: false }),
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        title: "",
+      }),
+    ),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Graph()),
+    Component.TableOfContents(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
-  ],
+  beforeBody: defaultContentPageLayout.beforeBody,
+  left: defaultContentPageLayout.left,
   right: [],
 }
