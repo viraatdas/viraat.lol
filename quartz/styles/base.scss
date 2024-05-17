@@ -162,11 +162,18 @@ a {
       padding: 0 4rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
-        position: initial;
-        flex-direction: row;
-        padding: 0;
-        width: initial;
-        margin-top: 2rem;
+        position: fixed; // Keep the sidebar fixed on mobile
+        flex-direction: column; // Maintain column layout for items
+        padding: 0 1rem; // Add padding on the sides for spacing
+        width: 100%; // Full width to cover the screen
+        max-width: $sidePanelWidth; // Max width set to sidebar width
+        height: 100vh; // Full viewport height
+        overflow-y: auto; // Allow scrolling for overflow content
+        left: 0; // Align to the left side of the viewport
+        top: 0; // Align to the top of the viewport
+        z-index: 1000; // Ensure sidebar is above other content
+        background-color: var(--light); // Background color for visibility
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); // Subtle shadow for depth
       }
     }
 
