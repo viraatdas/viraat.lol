@@ -15,13 +15,13 @@ const observer = new IntersectionObserver((entries) => {
   }
 })
 
-function toggleExplorer(this: HTMLElement) {
-  this.classList.toggle("collapsed")
-  const content = this.nextElementSibling as MaybeHTMLElement
-  if (!content) return
+export default function toggleExplorer(this: HTMLElement) {
+  this.classList.toggle("collapsed");
+  const content = this.nextElementSibling as HTMLElement | null;
+  if (!content) return;
 
-  content.classList.toggle("collapsed")
-  content.style.maxHeight = content.style.maxHeight === "0px" ? content.scrollHeight + "px" : "0px"
+  content.classList.toggle("collapsed");
+  content.style.maxHeight = content.style.maxHeight === "0px" ? `${content.scrollHeight}px` : "0px";
 }
 
 function toggleFolder(evt: MouseEvent) {
