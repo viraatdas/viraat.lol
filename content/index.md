@@ -74,8 +74,6 @@ title: Content Feed
 
 1. **Verilog**
 
-	[The best way to start learning Verilog](https://www.youtube.com/watch?v=2IReMT_zjK8)
-
 ## February 14, 2024
 
 1. **Cyberwarfare**
