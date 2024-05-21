@@ -162,11 +162,18 @@ a {
       padding: 0 4rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
+        display: none; /* Hide sidebar by default on mobile */
         position: initial;
         flex-direction: row;
         padding: 0;
         width: initial;
         margin-top: 2rem;
+      }
+    }
+
+    & .sidebar.show {
+      @media all and (max-width: $fullPageWidth) {
+        display: flex; /* Show sidebar when toggled */
       }
     }
 

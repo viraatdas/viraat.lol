@@ -194,8 +194,16 @@ export function renderPage(
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
+  const toggleSidebar = () => {
+    const sidebar = document.querySelector(".left.sidebar");
+    if (sidebar) {
+      sidebar.classList.toggle("show");
+    }
+  };
+
   const LeftComponent = (
     <div class="left sidebar">
+      <button onClick={toggleSidebar} class="toggle-sidebar-btn">Toggle Sidebar</button>
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
