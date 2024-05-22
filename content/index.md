@@ -6,6 +6,14 @@ title: Content Feed
 
 *Curious what Viraat is consuming? No? Still consume and become smarter.*
 
+<br/>
+
+## May 22, 2024
+
+1. Incredible animation breakdown
+[when a director breaks all of Pixar's rules…](https://www.youtube.com/watch?v=4SMBmox6ldY)
+
+
 ## April 24, 2024
 
 1. **Cool blackhole physics**
