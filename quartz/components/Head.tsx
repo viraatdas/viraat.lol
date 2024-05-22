@@ -16,7 +16,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = "/quartz/static/og-image.png" // Updated to use the correct image path
+    const ogImagePath = "static/og-image.png"
 
     return (
       <head>
