@@ -40,24 +40,3 @@ $$
 
 A greater $\Delta\phi$ suggests a richer potential for diverse and enriching experiences between individuals, predicated on the introduction of novel elements into the relationship.
 
-# Future Works, Discussion, and Limitation
-
-## Temporal Dynamics of $\phi$
-
-A crucial aspect of our framework is the recognition that $\phi$, representing individual profiles, is inherently dynamic, evolving over time.
-
-## Computational Considerations
-
-Future research should focus on developing efficient methods for the calculation of the composite function $f$.
-
-## Empirical Validation
-
-For the empirical validation of our framework, several key steps must be identified.
-
-## Limitations
-
-This framework, while providing a novel quantitative lens for examining friendships, acknowledges several limitations.
-
-# Conclusion
-
-In simpler terms, we argue that your more ideal friends should be people you could "date" more often. This mathematical model aims at quantifying the potential for friendship, marking a significant departure from traditional analyses of interpersonal relationships.
