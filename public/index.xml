@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>👊 viraat.lol</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 👊 viraat.lol</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>CrawlLinks</title>
+    <link>https://quartz.jzhao.xyz/plugins/CrawlLinks</link>
+    <guid>https://quartz.jzhao.xyz/plugins/CrawlLinks</guid>
+    <description>This plugin parses links and processes them to point to the right places. It is also needed for embedded links (like images). See Obsidian compatibility for more information.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>CreatedModifiedDate</title>
+    <link>https://quartz.jzhao.xyz/plugins/CreatedModifiedDate</link>
+    <guid>https://quartz.jzhao.xyz/plugins/CreatedModifiedDate</guid>
+    <description>This plugin determines the created, modified, and published dates for a document using three potential data sources: frontmatter metadata, Git history, and the filesystem ...</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>Description</title>
+    <link>https://quartz.jzhao.xyz/plugins/Description</link>
+    <guid>https://quartz.jzhao.xyz/plugins/Description</guid>
+    <description>This plugin generates descriptions that are used as metadata for the HTML head, the RSS Feed and in folder and tag listings if there is no main body content, the description is used as ...</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>ExplicitPublish</title>
+    <link>https://quartz.jzhao.xyz/plugins/ExplicitPublish</link>
+    <guid>https://quartz.jzhao.xyz/plugins/ExplicitPublish</guid>
+    <description>This plugin filters content based on an explicit publish flag in the frontmatter, allowing only content that is explicitly marked for publication to pass through ...</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>FolderPage</title>
+    <link>https://quartz.jzhao.xyz/plugins/FolderPage</link>
+    <guid>https://quartz.jzhao.xyz/plugins/FolderPage</guid>
+    <description>This plugin generates index pages for folders, creating a listing page for each folder that contains multiple content files. See folder and tag listings for more information.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>Frontmatter</title>
+    <link>https://quartz.jzhao.xyz/plugins/Frontmatter</link>
+    <guid>https://quartz.jzhao.xyz/plugins/Frontmatter</guid>
+    <description>This plugin parses the frontmatter of the page using the gray-matter library. See Syntax, Obsidian compatibility and OxHugo compatibility for more information.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>GitHubFlavoredMarkdown</title>
+    <link>https://quartz.jzhao.xyz/plugins/GitHubFlavoredMarkdown</link>
+    <guid>https://quartz.jzhao.xyz/plugins/GitHubFlavoredMarkdown</guid>
+    <description>This plugin enhances Markdown processing to support GitHub Flavored Markdown (GFM) which adds features like autolink literals, footnotes, strikethrough, tables and tasklists ...</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>HardLineBreaks</title>
+    <link>https://quartz.jzhao.xyz/plugins/HardLineBreaks</link>
+    <guid>https://quartz.jzhao.xyz/plugins/HardLineBreaks</guid>
+    <description>This plugin automatically converts single line breaks in Markdown text into hard line breaks in the HTML output. This plugin is not enabled by default as this doesn’t follow the semantics of actual Markdown but you may enable it if you’d like parity with Obsidian.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>Latex</title>
+    <link>https://quartz.jzhao.xyz/plugins/Latex</link>
+    <guid>https://quartz.jzhao.xyz/plugins/Latex</guid>
+    <description>This plugin adds LaTeX support to Quartz. See Latex for more information. Note For information on how to add, remove or configure plugins, see the Configuration page.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item><item>
+    <title>NotFoundPage</title>
+    <link>https://quartz.jzhao.xyz/plugins/NotFoundPage</link>
+    <guid>https://quartz.jzhao.xyz/plugins/NotFoundPage</guid>
+    <description>This plugin emits a 404 (Not Found) page for broken or non-existent URLs. Note For information on how to add, remove or configure plugins, see the Configuration page.</description>
+    <pubDate>Fri, 17 May 2024 04:50:31 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
