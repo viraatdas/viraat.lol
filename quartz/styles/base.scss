@@ -546,7 +546,7 @@ ol.overflow {
 
 #quartz-body #toggle-sidebar-btn {
   display: none !important; /* Ensure the button is hidden by default */
-  @media all and (max-width: $mobileBreakpoint) { /* Use the $mobileBreakpoint variable */
+  @media all and (max-width: $mobileBreakpoint) { /* Use the correct mobile breakpoint */
     display: flex !important; /* Ensure the display property is applied */
     align-items: center !important; /* Increase specificity */
     justify-content: center !important; /* Increase specificity */
