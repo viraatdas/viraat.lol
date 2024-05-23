@@ -538,10 +538,14 @@ ol.overflow {
   overflow-y: hidden;
 }
 
-// Move the media query for the #toggle-sidebar-btn to the end of the file
+.sidebar.show {
+  @media all and (max-width: $mobileBreakpoint) {
+    display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
+  }
+}
 
 #quartz-body #toggle-sidebar-btn {
-  display: none !important; /* Ensure the button is hidden by default */
+  display: none; /* Ensure the button is hidden by default */
   @media all and (max-width: $mobileBreakpoint) { /* Use the $mobileBreakpoint variable */
     display: flex !important; /* Ensure the display property is applied */
     align-items: center !important; /* Increase specificity */
@@ -555,12 +559,6 @@ ol.overflow {
     left: 1rem !important; /* Position the button at the left */
     background-color: var(--light) !important; /* Add background color for better visibility */
     border-radius: 5px !important; /* Add border radius for better aesthetics */
-    border: 2px solid blue !important; /* Change border color for visibility */
-  }
-}
-
-.sidebar.show {
-  @media all and (max-width: $mobileBreakpoint) {
-    display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
+    border: 2px solid red !important; /* Add border for visibility */
   }
 }
