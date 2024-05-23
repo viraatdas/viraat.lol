@@ -541,21 +541,21 @@ ol.overflow {
 // Move the media query for the #toggle-sidebar-btn to the end of the file
 
 #quartz-body #toggle-sidebar-btn {
-  display: none; /* Ensure the button is hidden by default */
+  display: none !important; /* Ensure the button is hidden by default */
   @media all and (max-width: $mobileBreakpoint) { /* Use the $mobileBreakpoint variable */
     display: flex !important; /* Ensure the display property is applied */
-    align-items: center; /* Increase specificity */
-    justify-content: center; /* Increase specificity */
-    font-size: 2rem; /* Increase specificity */
-    padding: 0.5rem; /* Increase specificity */
-    cursor: pointer; /* Increase specificity */
-    z-index: 10000; /* Ensure the hamburger menu icon is not hidden behind other elements */
-    position: fixed; /* Ensure the button stays in place */
-    top: 1rem; /* Position the button at the top */
-    left: 1rem; /* Position the button at the left */
-    background-color: var(--light); /* Add background color for better visibility */
-    border-radius: 5px; /* Add border radius for better aesthetics */
-    border: 2px solid blue; /* Change border color for visibility */
+    align-items: center !important; /* Increase specificity */
+    justify-content: center !important; /* Increase specificity */
+    font-size: 2rem !important; /* Increase specificity */
+    padding: 0.5rem !important; /* Increase specificity */
+    cursor: pointer !important; /* Increase specificity */
+    z-index: 10000 !important; /* Ensure the hamburger menu icon is not hidden behind other elements */
+    position: fixed !important; /* Ensure the button stays in place */
+    top: 1rem !important; /* Position the button at the top */
+    left: 1rem !important; /* Position the button at the left */
+    background-color: var(--light) !important; /* Add background color for better visibility */
+    border-radius: 5px !important; /* Add border radius for better aesthetics */
+    border: 2px solid blue !important; /* Change border color for visibility */
   }
 }
 
