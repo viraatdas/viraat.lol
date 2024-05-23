@@ -106,8 +106,6 @@ title: Content Feed
 
 1. **NVDLA Documentation**
 
-	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
-
 ## February 5, 2024
 
 1. **19 year old crossing the Pacific alone**
