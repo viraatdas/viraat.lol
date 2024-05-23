@@ -103,10 +103,22 @@ a {
   }
 }
 
-.mobile-only {
-  display: none;
-  @media all and (max-width: $fullPageWidth) {
-    display: initial;
+#quartz-body .mobile-only {
+  display: none; /* Ensure the sidebar is hidden by default on mobile */
+  @media all and (max-width: $mobileBreakpoint) {
+    display: flex; /* Ensure the display property is applied */
+    align-items: center; /* Increase specificity */
+    justify-content: center; /* Increase specificity */
+    font-size: 2rem; /* Increase specificity */
+    padding: 0.5rem; /* Increase specificity */
+    cursor: pointer; /* Increase specificity */
+    z-index: 10000; /* Ensure the hamburger menu icon is not hidden behind other elements */
+    position: fixed; /* Ensure the button stays in place */
+    top: 1rem; /* Position the button at the top */
+    left: 1rem; /* Position the button at the left */
+    background-color: var(--light); /* Add background color for better visibility */
+    border-radius: 5px; /* Add border radius for better aesthetics */
+    border: 2px solid red; /* Add border for visibility */
   }
 }
 
@@ -152,7 +164,7 @@ a {
 
     & .sidebar {
       flex: 1;
-      display: flex;
+      display: none !important; /* Hide sidebar by default on mobile */
       flex-direction: column;
       gap: 2rem;
       top: 0;
@@ -162,18 +174,18 @@ a {
       padding: 0 4rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
-        display: none; /* Hide sidebar by default on mobile */
         position: initial;
         flex-direction: row;
         padding: 0;
         width: initial;
         margin-top: 2rem;
+        transition: all 0.3s ease; /* Add smooth transition effect */
       }
     }
 
     & .sidebar.show {
-      @media all and (max-width: $fullPageWidth) {
-        display: flex; /* Show sidebar when toggled */
+      @media all and (max-width: $mobileBreakpoint) {
+        display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
       }
     }
 
@@ -524,4 +536,31 @@ ol.overflow {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+}
+
+// Move the media query for the #toggle-sidebar-btn to the end of the file
+
+#quartz-body #toggle-sidebar-btn {
+  display: none; /* Ensure the button is hidden by default */
+  @media all and (max-width: $mobileBreakpoint) { /* Use the $mobileBreakpoint variable */
+    display: flex !important; /* Ensure the display property is applied */
+    align-items: center; /* Increase specificity */
+    justify-content: center; /* Increase specificity */
+    font-size: 2rem; /* Increase specificity */
+    padding: 0.5rem; /* Increase specificity */
+    cursor: pointer; /* Increase specificity */
+    z-index: 10000; /* Ensure the hamburger menu icon is not hidden behind other elements */
+    position: fixed; /* Ensure the button stays in place */
+    top: 1rem; /* Position the button at the top */
+    left: 1rem; /* Position the button at the left */
+    background-color: var(--light); /* Add background color for better visibility */
+    border-radius: 5px; /* Add border radius for better aesthetics */
+    border: 2px solid red; /* Add border for visibility */
+  }
+}
+
+.sidebar.show {
+  @media all and (max-width: $mobileBreakpoint) {
+    display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
+  }
 }
