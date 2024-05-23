@@ -195,15 +195,16 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const toggleSidebar = () => {
-    const sidebar = document.querySelector(".left.sidebar");
+    const sidebar = document.querySelector(".left.sidebar") as HTMLElement;
     if (sidebar) {
       sidebar.classList.toggle("show");
+      sidebar.style.transition = "all 0.3s ease"; // Add smooth transition effect
     }
   };
 
   const LeftComponent = (
     <div class="left sidebar">
-      <button onClick={toggleSidebar} class="toggle-sidebar-btn">Toggle Sidebar</button>
+      <button onClick={toggleSidebar} id="toggle-sidebar-btn">☰</button>
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
