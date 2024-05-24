@@ -104,6 +104,7 @@ a {
 }
 
 #quartz-body .mobile-only {
+  display: none !important; /* Ensure the sidebar is hidden by default on mobile */
   @media all and (max-width: $mobileBreakpoint) {
     display: flex !important; /* Ensure the display property is applied */
     align-items: center !important; /* Increase specificity */
@@ -163,7 +164,7 @@ a {
 
     & .sidebar {
       flex: 1;
-      display: none; /* Hide sidebar by default on mobile */
+      display: none !important; /* Hide sidebar by default on mobile */
       flex-direction: column;
       gap: 2rem;
       top: 0;
@@ -543,8 +544,8 @@ ol.overflow {
   }
 }
 
-#quartz-body #toggle-sidebar-btn,
-#quartz-body .mobile-only {
+#quartz-body #toggle-sidebar-btn {
+  display: none !important; /* Ensure the button is hidden by default */
   @media all and (max-width: $mobileBreakpoint) { /* Use the correct mobile breakpoint */
     display: flex !important; /* Ensure the display property is applied */
     align-items: center !important; /* Increase specificity */
@@ -558,6 +559,5 @@ ol.overflow {
     left: 1rem !important; /* Position the button at the left */
     background-color: var(--light) !important; /* Add background color for better visibility */
     border-radius: 5px !important; /* Add border radius for better aesthetics */
-    border: 2px solid red !important; /* Add border for visibility */
   }
 }
