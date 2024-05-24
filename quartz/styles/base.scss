@@ -118,7 +118,6 @@ a {
     left: 1rem !important; /* Position the button at the left */
     background-color: var(--light) !important; /* Add background color for better visibility */
     border-radius: 5px !important; /* Add border radius for better aesthetics */
-    border: 2px solid red !important; /* Add border for visibility */
   }
 }
 
@@ -164,7 +163,7 @@ a {
 
     & .sidebar {
       flex: 1;
-      display: none !important; /* Hide sidebar by default on mobile */
+      display: none; /* Hide sidebar by default on mobile */
       flex-direction: column;
       gap: 2rem;
       top: 0;
