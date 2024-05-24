@@ -83,7 +83,7 @@ export const BuildArgv = {
   },
   port: {
     number: true,
-    default: 8081, // Updated default port to 8081
+    default: 8082, // Updated default port to 8082
     describe: "port to serve Quartz on",
   },
   wsPort: {
