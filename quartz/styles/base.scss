@@ -103,10 +103,22 @@ a {
   }
 }
 
-.mobile-only {
-  display: none;
-  @media all and (max-width: $fullPageWidth) {
-    display: initial;
+#quartz-body .mobile-only {
+  display: none !important; /* Ensure the sidebar is hidden by default on mobile */
+  @media all and (max-width: $mobileBreakpoint) {
+    display: flex !important; /* Ensure the display property is applied */
+    align-items: center !important; /* Increase specificity */
+    justify-content: center !important; /* Increase specificity */
+    font-size: 2rem !important; /* Increase specificity */
+    padding: 0.5rem !important; /* Increase specificity */
+    cursor: pointer !important; /* Increase specificity */
+    z-index: 10000 !important; /* Ensure the hamburger menu icon is not hidden behind other elements */
+    position: fixed !important; /* Ensure the button stays in place */
+    top: 1rem !important; /* Position the button at the top */
+    left: 1rem !important; /* Position the button at the left */
+    background-color: var(--light) !important; /* Add background color for better visibility */
+    border-radius: 5px !important; /* Add border radius for better aesthetics */
+    border: 2px solid red !important; /* Add border for visibility */
   }
 }
 
@@ -152,7 +164,7 @@ a {
 
     & .sidebar {
       flex: 1;
-      display: flex;
+      display: none !important; /* Hide sidebar by default on mobile */
       flex-direction: column;
       gap: 2rem;
       top: 0;
@@ -167,6 +179,13 @@ a {
         padding: 0;
         width: initial;
         margin-top: 2rem;
+        transition: all 0.3s ease; /* Add smooth transition effect */
+      }
+    }
+
+    & .sidebar.show {
+      @media all and (max-width: $mobileBreakpoint) {
+        display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
       }
     }
 
@@ -517,4 +536,28 @@ ol.overflow {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+}
+
+.sidebar.show {
+  @media all and (max-width: $mobileBreakpoint) {
+    display: flex !important; /* Ensure the sidebar is shown when toggled on mobile */
+  }
+}
+
+#quartz-body #toggle-sidebar-btn {
+  display: none !important; /* Ensure the button is hidden by default */
+  @media all and (max-width: $mobileBreakpoint) { /* Use the correct mobile breakpoint */
+    display: flex !important; /* Ensure the display property is applied */
+    align-items: center !important; /* Increase specificity */
+    justify-content: center !important; /* Increase specificity */
+    font-size: 2rem !important; /* Increase specificity */
+    padding: 0.5rem !important; /* Increase specificity */
+    cursor: pointer !important; /* Increase specificity */
+    z-index: 10000 !important; /* Ensure the hamburger menu icon is not hidden behind other elements */
+    position: fixed !important; /* Ensure the button stays in place */
+    top: 1rem !important; /* Position the button at the top */
+    left: 1rem !important; /* Position the button at the left */
+    background-color: var(--light) !important; /* Add background color for better visibility */
+    border-radius: 5px !important; /* Add border radius for better aesthetics */
+  }
 }
