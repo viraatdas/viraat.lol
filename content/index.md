@@ -116,6 +116,8 @@ title: Content Feed
 
 1. **How I'm able to take notes in mathematics lectures using LaTeX and Vim**
 
+	[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
 ## February 4, 2024
 
 1. **How petrol pumps know when to turn themselves off**
