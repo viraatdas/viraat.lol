@@ -156,6 +156,8 @@ title: Content Feed
 
 1. **How Facebook Became a Tool for Genocide**
 
+	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
+
 ## January 24, 2024
 
 1. **What Gödel Discovered**
