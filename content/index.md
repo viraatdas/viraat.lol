@@ -10,7 +10,11 @@ title: Content Feed
 
 **Links:**
 
-<br/>
+- [Knowledge Acquisition](viraat.lol/Knowledge-Acquisition/)
+
+- [About Me](viraat.lol/About-Me)
+
+- [Personal Links](https://viraat.lol/Links)
 
 ## May 22, 2024
 
