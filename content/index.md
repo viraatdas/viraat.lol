@@ -198,8 +198,6 @@ title: Content Feed
 
 1. **The English language is not good for politics**
 
-	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
-
 1. **Alien life might be linked to human evolution**
 
 	[Ancient Life as Old as the Universe](https://www.youtube.com/watch?v=JOiGEI9pQBs&t=321s)
