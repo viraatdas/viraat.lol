@@ -2,5 +2,6 @@ header{flex-direction:row;align-items:center;gap:1.5rem;margin:2rem 0;display:fl
 @media all and (max-width: 768px) {
   header .hamburger-menu {
     display: block !important;
+    background-color: none; /* Remove the temporary red background color */
   }
 }
