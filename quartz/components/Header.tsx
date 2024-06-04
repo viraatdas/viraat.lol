@@ -52,11 +52,11 @@ header h1 {
 }
 
 @media all and (max-width: 768px) {
-  .hamburger-menu {
+  header .hamburger-menu {
     display: block !important;
   }
 
-  .nav-links {
+  header .nav-links {
     display: none;
     flex-direction: column;
     gap: 1rem;
@@ -69,7 +69,7 @@ header h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .nav-links.open {
+  header .nav-links.open {
     display: flex;
   }
 }
