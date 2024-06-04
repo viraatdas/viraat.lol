@@ -12,7 +12,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   }
 
   return (
-    <header>
+    <header id="main-header">
       <button className="hamburger-menu" onClick={toggleMenu}>
         ☰
       </button>
@@ -24,7 +24,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
 }
 
 Header.css = `
-header {
+#main-header {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -32,12 +32,12 @@ header {
   gap: 1.5rem;
 }
 
-header h1 {
+#main-header h1 {
   margin: 0;
   flex: auto;
 }
 
-.hamburger-menu {
+#main-header .hamburger-menu {
   display: none;
   background: none;
   border: none;
@@ -45,18 +45,18 @@ header h1 {
   cursor: pointer;
 }
 
-.nav-links {
+#main-header .nav-links {
   display: flex;
   flex-direction: row;
   gap: 1.5rem;
 }
 
 @media all and (max-width: 768px) {
-  header .hamburger-menu {
+  #main-header .hamburger-menu {
     display: block !important;
   }
 
-  header .nav-links {
+  #main-header .nav-links {
     display: none;
     flex-direction: column;
     gap: 1rem;
@@ -69,7 +69,7 @@ header h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  header .nav-links.open {
+  #main-header .nav-links.open {
     display: flex;
   }
 }
