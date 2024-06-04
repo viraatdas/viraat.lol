@@ -5,6 +5,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   const [menuOpen, setMenuOpen] = useState(false)
 
   const toggleMenu = () => {
+    console.log("Menu toggled. Current state:", menuOpen)
     setMenuOpen(!menuOpen)
   }
 
