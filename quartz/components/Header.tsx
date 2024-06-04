@@ -13,7 +13,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
 
   return (
     <header id="main-header">
-      <button className="hamburger-menu" onClick={toggleMenu}>
+      <button id="hamburger-menu-button" className="hamburger-menu" onClick={() => { console.log('Button clicked'); toggleMenu(); }} style={{ display: 'block', backgroundColor: 'red' }}>
         ☰
       </button>
       <nav className={`nav-links ${menuOpen ? "open" : ""}`}>
