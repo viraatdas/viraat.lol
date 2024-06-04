@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { useState } from "preact/hooks"
 
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
+  console.log("Header component rendered")
   const [menuOpen, setMenuOpen] = useState(false)
 
   const toggleMenu = () => {
