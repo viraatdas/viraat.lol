@@ -5,8 +5,9 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   const [menuOpen, setMenuOpen] = useState(false)
 
   const toggleMenu = () => {
-    console.log("Menu toggled. Current state:", menuOpen)
+    console.log("Menu toggled. Current state before toggle:", menuOpen)
     setMenuOpen(!menuOpen)
+    console.log("Menu toggled. Current state after toggle:", !menuOpen)
   }
 
   return (
@@ -51,7 +52,7 @@ header h1 {
 
 @media all and (max-width: 768px) {
   .hamburger-menu {
-    display: block;
+    display: block !important;
   }
 
   .nav-links {
