@@ -44,6 +44,8 @@ title: Content Feed
 
 1. **Magnetizer**
 
+	[I accidentally killed this magnet](https://youtube.com/shorts/6EYWniWuPQM?si=qJJfziYTZo2fyhZa)
+
 ## March 26, 2024
 
 1. **Traffic signals**
@@ -61,6 +63,8 @@ title: Content Feed
 ## March 1, 2024
 
 1. **Cool machine learning-y puzzle**
+
+	[HackMIT 2019 Puzzle 6](https://vey.ie/HackMIT2019-Puzzle6.html)
 
 ## February 23, 2024
 
@@ -84,23 +88,35 @@ title: Content Feed
 
 1. **Technical accessibility**
 
+	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1760388761349927356?s=20)
+
 1. **Writing musically**
+
+	[Blake Emal on Twitter](https://x.com/heyblake/status/1760112040167776281?s=20)
 
 ## February 20, 2024
 
 1. **Math is lonely**
 
+	[doing math is lonely](https://www.youtube.com/watch?v=LEsI4kPEkgw)
+
 ## February 17, 2024
 
 1. **Verilog**
+
+	[The best way to start learning Verilog](https://www.youtube.com/watch?v=2IReMT_zjK8)
 
 ## February 14, 2024
 
 1. **Cyberwarfare**
 
+	[How to Start a War With a Flash Drive](https://m.youtube.com/watch?v=15MaSayc28c)
+
 ## February 6, 2024
 
 1. **DIY Battery Testing Robot**
+
+	[DIY Battery Testing Robot [ Part Two ]](https://www.youtube.com/watch?v=Gp6T2UscHwc)
 
 1. **My answer to "how do you defend someone you think is guilty"**
 
@@ -112,9 +128,13 @@ title: Content Feed
 
 1. **NVDLA Documentation**
 
+	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
+
 ## February 5, 2024
 
 1. **19 year old crossing the Pacific alone**
+
+	[19 year old crossing the Pacific alone](https://www.youtube.com/watch?v=e_B0FNiR6ms)
 
 1. **How I'm able to take notes in mathematics lectures using LaTeX and Vim**
 
@@ -152,6 +172,8 @@ title: Content Feed
 
 1. **Why North Korea is so good at propaganda**
 
+	[Why North Korea is so good at propaganda](https://www.youtube.com/watch?v=chAcK_3zBSY&t=563s)
+
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
@@ -162,9 +184,13 @@ title: Content Feed
 
 1. **What Gödel Discovered**
 
+	[What Gödel Discovered](https://stopa.io/post/269)
+
 ## January 20, 2024
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
+
+	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
 
 ## January 19, 2024
 
