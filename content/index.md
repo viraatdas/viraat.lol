@@ -92,6 +92,8 @@ title: Content Feed
 
 1. **Writing musically**
 
+	[Blake Emal on Twitter](https://x.com/heyblake/status/1760112040167776281?s=20)
+
 ## February 20, 2024
 
 1. **Math is lonely**
