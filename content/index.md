@@ -190,6 +190,8 @@ title: Content Feed
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
 
+	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
+
 ## January 19, 2024
 
 1. **AI can do IMO level geometry problems now!**
