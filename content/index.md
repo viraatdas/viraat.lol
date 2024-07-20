@@ -70,6 +70,8 @@ title: Content Feed
 
 1. **Triads**
 
+	[Ancient Origins of the Chinese Triads](https://www.youtube.com/watch?v=FqM3hXdXSa4)
+
 ## February 21, 2024
 
 1. **Brains are decoders**
