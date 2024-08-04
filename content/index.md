@@ -160,8 +160,6 @@ title: Content Feed
 
 1. **I Pranked America's Most Racist Man**
 
-	[I Pranked America's Most Racist Man](https://www.youtube.com/watch?v=umNjlp2LObM&t=136s)
-
 ## January 27, 2024
 
 1. **Making coffee with olive oil**
