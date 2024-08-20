@@ -124,6 +124,8 @@ title: Content Feed
 
 1. **What is an FPGA ? | How to program FPGA Board? | Introduction to FPGA | FPGA Tutorials**
 
+	[What is an FPGA ? | How to program FPGA Board? | Introduction to FPGA | FPGA Tutorials](https://www.youtube.com/watch?v=ieu0o93-wNI)
+
 1. **NVDLA Documentation**
 
 	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
