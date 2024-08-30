@@ -216,8 +216,6 @@ title: Content Feed
 
 1. **How Benjamin Netanyahu Relies on Hamas**
 
-	[How Benjamin Netanyahu Relies on Hamas](https://www.youtube.com/watch?v=2PeYDphtHYo)
-
 1. **The English language is not good for politics**
 
 	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
