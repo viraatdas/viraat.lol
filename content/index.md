@@ -144,8 +144,6 @@ title: Content Feed
 
 1. **How petrol pumps know when to turn themselves off**
 
-	[How petrol pumps know when to turn themselves off](https://youtu.be/fT2KhJ8W-Kg?si=D8d-HvKblKSF-cAX)
-
 ## January 29, 2024
 
 1. **The Rise and Fall of Somali Pirates**
@@ -155,8 +153,6 @@ title: Content Feed
 ## January 28, 2024
 
 1. **Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294**
-
-	[Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294](https://www.youtube.com/watch?v=W4QSGlM06Gs)
 
 1. **I Pranked America's Most Racist Man**
 
@@ -177,8 +173,6 @@ title: Content Feed
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
-
-	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
 
 ## January 24, 2024
 
