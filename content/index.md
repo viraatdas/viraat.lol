@@ -156,8 +156,6 @@ title: Content Feed
 
 1. **Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294**
 
-	[Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294](https://www.youtube.com/watch?v=W4QSGlM06Gs)
-
 1. **I Pranked America's Most Racist Man**
 
 	[I Pranked America's Most Racist Man](https://www.youtube.com/watch?v=umNjlp2LObM&t=136s)
