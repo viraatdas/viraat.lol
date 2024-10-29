@@ -84,6 +84,8 @@ title: Content Feed
 
 1. **Hacking car entrance**
 
+	[I Hacked Into My Own Car](https://www.youtube.com/watch?v=5CsD8I396wo)
+
 1. **Technical accessibility**
 
 	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1760388761349927356?s=20)
