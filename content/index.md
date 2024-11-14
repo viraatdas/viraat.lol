@@ -40,8 +40,6 @@ title: Content Feed
 
 1. **Cool blackhole physics**
 
-	[The Problem With Interstellar's Black Hole that Everyone Ignores](https://youtu.be/OWeW6kTcoRg?si=mFkl5irRJQbM1iEx)
-
 1. **Magnetizer**
 
 	[I accidentally killed this magnet](https://youtube.com/shorts/6EYWniWuPQM?si=qJJfziYTZo2fyhZa)
@@ -49,8 +47,6 @@ title: Content Feed
 ## March 26, 2024
 
 1. **Traffic signals**
-
-	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
 
 1. **All three holes**
 
@@ -64,13 +60,9 @@ title: Content Feed
 
 1. **Cool machine learning-y puzzle**
 
-	[HackMIT 2019 Puzzle 6](https://vey.ie/HackMIT2019-Puzzle6.html)
-
 ## February 23, 2024
 
 1. **Triads**
-
-	[Ancient Origins of the Chinese Triads](https://www.youtube.com/watch?v=FqM3hXdXSa4)
 
 ## February 21, 2024
 
@@ -116,8 +108,6 @@ title: Content Feed
 
 1. **DIY Battery Testing Robot**
 
-	[DIY Battery Testing Robot [ Part Two ]](https://www.youtube.com/watch?v=Gp6T2UscHwc)
-
 1. **My answer to "how do you defend someone you think is guilty"**
 
 	[My answer to "how do you defend someone you think is guilty"](https://www.youtube.com/watch?v=A4Ncs9gXBAI)
@@ -128,8 +118,6 @@ title: Content Feed
 
 1. **NVDLA Documentation**
 
-	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
-
 ## February 5, 2024
 
 1. **19 year old crossing the Pacific alone**
@@ -137,8 +125,6 @@ title: Content Feed
 	[19 year old crossing the Pacific alone](https://www.youtube.com/watch?v=e_B0FNiR6ms)
 
 1. **How I'm able to take notes in mathematics lectures using LaTeX and Vim**
-
-	[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
 ## February 4, 2024
 
@@ -160,25 +146,17 @@ title: Content Feed
 
 1. **I Pranked America's Most Racist Man**
 
-	[I Pranked America's Most Racist Man](https://www.youtube.com/watch?v=umNjlp2LObM&t=136s)
-
 ## January 27, 2024
 
 1. **Making coffee with olive oil**
-
-	[Making coffee with olive oil](https://m.youtube.com/shorts/sFqL4WP-5Vw)
 
 ## January 26, 2024
 
 1. **Why North Korea is so good at propaganda**
 
-	[Why North Korea is so good at propaganda](https://www.youtube.com/watch?v=chAcK_3zBSY&t=563s)
-
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
-
-	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
 
 ## January 24, 2024
 
@@ -190,27 +168,17 @@ title: Content Feed
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
 
-	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
-
 ## January 19, 2024
 
 1. **AI can do IMO level geometry problems now!**
 
-	[AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
-
-	*Super interesting idea to use a neural language system to guide symbolic deductions*
-
 1. **I Built a Life-Size Sonic That Can Cut You in Half**
-
-	[I Built a Life-Size Sonic That Can Cut You in Half](https://www.youtube.com/watch?app=desktop&v=cHSrmyTfs-I)
 
 1. **Great momo cooking tutorial**
 
 	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
-
-	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
 
 ## January 18, 2024
 
@@ -223,8 +191,6 @@ title: Content Feed
 	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 
 1. **Alien life might be linked to human evolution**
-
-	[Ancient Life as Old as the Universe](https://www.youtube.com/watch?v=JOiGEI9pQBs&t=321s)
 
 1. **Interesting windmill IMO problem**
 
