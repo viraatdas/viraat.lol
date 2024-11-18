@@ -48,15 +48,9 @@ title: Content Feed
 
 1. **Traffic signals**
 
-	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
-
 1. **All three holes**
 
-	[All Three Holes](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
-
 1. **Colorada isn’t a perfect rectangle**
-
-	[Most ppl don’t know Colorado is not a perfect rectangle](https://youtube.com/shorts/mg0uw0kx_Dk?si=IFqxQU-G_YROQMdp)
 
 ## March 1, 2024
 
@@ -74,7 +68,11 @@ title: Content Feed
 
 1. **Brains are decoders**
 
+	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
+
 1. **GPT tokenizer**
+
+	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
 
 1. **Hacking car entrance**
 
@@ -98,9 +96,13 @@ title: Content Feed
 
 1. **Verilog**
 
+	[The best way to start learning Verilog](https://www.youtube.com/watch?v=2IReMT_zjK8)
+
 ## February 14, 2024
 
 1. **Cyberwarfare**
+
+	[How to Start a War With a Flash Drive](https://m.youtube.com/watch?v=15MaSayc28c)
 
 ## February 6, 2024
 
@@ -134,6 +136,8 @@ title: Content Feed
 
 1. **How petrol pumps know when to turn themselves off**
 
+	[How petrol pumps know when to turn themselves off](https://youtu.be/fT2KhJ8W-Kg?si=D8d-HvKblKSF-cAX)
+
 ## January 29, 2024
 
 1. **The Rise and Fall of Somali Pirates**
@@ -147,6 +151,8 @@ title: Content Feed
 	[Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294](https://www.youtube.com/watch?v=W4QSGlM06Gs)
 
 1. **I Pranked America's Most Racist Man**
+
+	[I Pranked America's Most Racist Man](https://www.youtube.com/watch?v=umNjlp2LObM&t=136s)
 
 ## January 27, 2024
 
@@ -164,29 +170,35 @@ title: Content Feed
 
 1. **How Facebook Became a Tool for Genocide**
 
-	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
-
 ## January 24, 2024
 
 1. **What Gödel Discovered**
+
+	[What Gödel Discovered](https://stopa.io/post/269)
 
 ## January 20, 2024
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
 
+	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
+
 ## January 19, 2024
 
 1. **AI can do IMO level geometry problems now!**
 
-1. **I Built a Life-Size Sonic That Can Cut You in Half**
+	[AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 
-	[I Built a Life-Size Sonic That Can Cut You in Half](https://www.youtube.com/watch?app=desktop&v=cHSrmyTfs-I)
+	*Super interesting idea to use a neural language system to guide symbolic deductions*
+
+1. **I Built a Life-Size Sonic That Can Cut You in Half**
 
 1. **Great momo cooking tutorial**
 
 	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
+
+	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
 
 ## January 18, 2024
 
