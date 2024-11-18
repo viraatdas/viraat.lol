@@ -74,11 +74,7 @@ title: Content Feed
 
 1. **Brains are decoders**
 
-	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
-
 1. **GPT tokenizer**
-
-	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
 
 1. **Hacking car entrance**
 
@@ -102,13 +98,9 @@ title: Content Feed
 
 1. **Verilog**
 
-	[The best way to start learning Verilog](https://www.youtube.com/watch?v=2IReMT_zjK8)
-
 ## February 14, 2024
 
 1. **Cyberwarfare**
-
-	[How to Start a War With a Flash Drive](https://m.youtube.com/watch?v=15MaSayc28c)
 
 ## February 6, 2024
 
@@ -142,8 +134,6 @@ title: Content Feed
 
 1. **How petrol pumps know when to turn themselves off**
 
-	[How petrol pumps know when to turn themselves off](https://youtu.be/fT2KhJ8W-Kg?si=D8d-HvKblKSF-cAX)
-
 ## January 29, 2024
 
 1. **The Rise and Fall of Somali Pirates**
@@ -157,8 +147,6 @@ title: Content Feed
 	[Striking A Match With a Bullet (380,117 frames per second SlowMo) - Smarter Every Day 294](https://www.youtube.com/watch?v=W4QSGlM06Gs)
 
 1. **I Pranked America's Most Racist Man**
-
-	[I Pranked America's Most Racist Man](https://www.youtube.com/watch?v=umNjlp2LObM&t=136s)
 
 ## January 27, 2024
 
@@ -182,21 +170,13 @@ title: Content Feed
 
 1. **What Gödel Discovered**
 
-	[What Gödel Discovered](https://stopa.io/post/269)
-
 ## January 20, 2024
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
 
-	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
-
 ## January 19, 2024
 
 1. **AI can do IMO level geometry problems now!**
-
-	[AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
-
-	*Super interesting idea to use a neural language system to guide symbolic deductions*
 
 1. **I Built a Life-Size Sonic That Can Cut You in Half**
 
@@ -208,8 +188,6 @@ title: Content Feed
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
 
-	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
-
 ## January 18, 2024
 
 1. **How Benjamin Netanyahu Relies on Hamas**
@@ -217,8 +195,6 @@ title: Content Feed
 	[How Benjamin Netanyahu Relies on Hamas](https://www.youtube.com/watch?v=2PeYDphtHYo)
 
 1. **The English language is not good for politics**
-
-	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 
 1. **Alien life might be linked to human evolution**
 
