@@ -48,9 +48,15 @@ title: Content Feed
 
 1. **Traffic signals**
 
+	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
+
 1. **All three holes**
 
+	[All Three Holes](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
+
 1. **Colorada isn’t a perfect rectangle**
+
+	[Most ppl don’t know Colorado is not a perfect rectangle](https://youtube.com/shorts/mg0uw0kx_Dk?si=IFqxQU-G_YROQMdp)
 
 ## March 1, 2024
 
@@ -170,6 +176,8 @@ title: Content Feed
 
 1. **How Facebook Became a Tool for Genocide**
 
+	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
+
 ## January 24, 2024
 
 1. **What Gödel Discovered**
@@ -192,6 +200,8 @@ title: Content Feed
 
 1. **I Built a Life-Size Sonic That Can Cut You in Half**
 
+	[I Built a Life-Size Sonic That Can Cut You in Half](https://www.youtube.com/watch?app=desktop&v=cHSrmyTfs-I)
+
 1. **Great momo cooking tutorial**
 
 	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
@@ -207,6 +217,8 @@ title: Content Feed
 	[How Benjamin Netanyahu Relies on Hamas](https://www.youtube.com/watch?v=2PeYDphtHYo)
 
 1. **The English language is not good for politics**
+
+	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 
 1. **Alien life might be linked to human evolution**
 
