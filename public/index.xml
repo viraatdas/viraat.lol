@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>👊 viraat.lol</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 👊 viraat.lol</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to Quartz 4</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are already using Quartz to publish personal notes, websites, and digital gardens to the web.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>Layout</title>
+    <link>https://quartz.jzhao.xyz/layout</link>
+    <guid>https://quartz.jzhao.xyz/layout</guid>
+    <description>Certain emitters may also output HTML files. To enable easy customization, these emitters allow you to fully rearrange the layout of the page. The default page layouts can be found in quartz.layout.ts.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>Migrating from Quartz 3</title>
+    <link>https://quartz.jzhao.xyz/migrating-from-Quartz-3</link>
+    <guid>https://quartz.jzhao.xyz/migrating-from-Quartz-3</guid>
+    <description>As you already have Quartz locally, you don’t need to fork or clone it again. Simply just checkout the alpha branch, install the dependencies, and import your old vault.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>Philosophy of Quartz</title>
+    <link>https://quartz.jzhao.xyz/philosophy</link>
+    <guid>https://quartz.jzhao.xyz/philosophy</guid>
+    <description>A garden should be a true hypertext The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>AliasRedirects</title>
+    <link>https://quartz.jzhao.xyz/plugins/AliasRedirects</link>
+    <guid>https://quartz.jzhao.xyz/plugins/AliasRedirects</guid>
+    <description>This plugin emits HTML redirect pages for aliases and permalinks defined in the frontmatter of content files. For example, A foo.md has the following frontmatter foo.md--- title: &quot;Foo&quot; alias: - &quot;bar&quot; --- The target host.me/bar will be redirected to host.me/foo Note that these are permanent redirect.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>Assets</title>
+    <link>https://quartz.jzhao.xyz/plugins/Assets</link>
+    <guid>https://quartz.jzhao.xyz/plugins/Assets</guid>
+    <description>This plugin emits all non-Markdown static assets in your content folder (like images, videos, HTML, etc). The plugin respects the ignorePatterns in the global configuration.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>CNAME</title>
+    <link>https://quartz.jzhao.xyz/plugins/CNAME</link>
+    <guid>https://quartz.jzhao.xyz/plugins/CNAME</guid>
+    <description>This plugin emits a CNAME record that points your subdomain to the default domain of your site. If you want to use a custom domain name like quartz.example.com for the site, then this is needed.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>ComponentResources</title>
+    <link>https://quartz.jzhao.xyz/plugins/ComponentResources</link>
+    <guid>https://quartz.jzhao.xyz/plugins/ComponentResources</guid>
+    <description>This plugin manages and emits the static resources required for the Quartz framework. This includes CSS stylesheets and JavaScript scripts that enhance the functionality and aesthetics of the generated site.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>ContentIndex</title>
+    <link>https://quartz.jzhao.xyz/plugins/ContentIndex</link>
+    <guid>https://quartz.jzhao.xyz/plugins/ContentIndex</guid>
+    <description>This plugin emits both RSS and an XML sitemap for your site. The RSS Feed allows users to subscribe to content on your site and the sitemap allows search engines to better index your site.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item><item>
+    <title>ContentPage</title>
+    <link>https://quartz.jzhao.xyz/plugins/ContentPage</link>
+    <guid>https://quartz.jzhao.xyz/plugins/ContentPage</guid>
+    <description>This plugin is a core component of the Quartz framework. It generates the HTML pages for each piece of Markdown content. It emits the full-page layout, including headers, footers, and body content, among others.</description>
+    <pubDate>Tue, 21 May 2024 19:52:59 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
