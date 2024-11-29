@@ -1,11 +1,30 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { useState } from "preact/hooks"
 
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
-  return children.length > 0 ? <header>{children}</header> : null
+  console.log("Header component rendered")
+  const [menuOpen, setMenuOpen] = useState(false)
+
+  const toggleMenu = () => {
+    console.log("Menu toggled. Current state before toggle:", menuOpen)
+    setMenuOpen(!menuOpen)
+    console.log("Menu toggled. Current state after toggle:", !menuOpen)
+  }
+
+  return (
+    <header id="main-header">
+      <button id="hamburger-menu-button" className="hamburger-menu" onClick={() => { console.log('Button clicked'); toggleMenu(); }} style={{ display: 'block', backgroundColor: 'red' }}>
+        ☰
+      </button>
+      <nav className={`nav-links ${menuOpen ? "open" : ""}`}>
+        {children}
+      </nav>
+    </header>
+  )
 }
 
 Header.css = `
-header {
+#main-header {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -13,9 +32,46 @@ header {
   gap: 1.5rem;
 }
 
-header h1 {
+#main-header h1 {
   margin: 0;
   flex: auto;
+}
+
+#main-header .hamburger-menu {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+#main-header .nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+
+@media all and (max-width: 768px) {
+  #main-header .hamburger-menu {
+    display: block !important;
+  }
+
+  #main-header .nav-links {
+    display: none;
+    flex-direction: column;
+    gap: 1rem;
+    position: absolute;
+    top: 4rem;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  #main-header .nav-links.open {
+    display: flex;
+  }
 }
 `
 
