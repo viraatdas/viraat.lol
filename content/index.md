@@ -9,7 +9,6 @@ title: Content Feed
 <br/>
 
 **Links:**
-- [Substack](https://viraat.substack.com/)
 
 - [Knowledge Acquisition](https://viraat.lol/knowledge-acquisition/)
 
