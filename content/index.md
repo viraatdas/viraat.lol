@@ -208,8 +208,6 @@ title: Content Feed
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
 
-	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
-
 ## January 18, 2024
 
 1. **How Benjamin Netanyahu Relies on Hamas**
