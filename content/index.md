@@ -132,8 +132,6 @@ title: Content Feed
 
 1. **19 year old crossing the Pacific alone**
 
-	[19 year old crossing the Pacific alone](https://www.youtube.com/watch?v=e_B0FNiR6ms)
-
 1. **How I'm able to take notes in mathematics lectures using LaTeX and Vim**
 
 	[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
