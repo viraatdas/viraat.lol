@@ -56,8 +56,6 @@ title: Content Feed
 
 1. **Colorada isn’t a perfect rectangle**
 
-	[Most ppl don’t know Colorado is not a perfect rectangle](https://youtube.com/shorts/mg0uw0kx_Dk?si=IFqxQU-G_YROQMdp)
-
 ## March 1, 2024
 
 1. **Cool machine learning-y puzzle**
