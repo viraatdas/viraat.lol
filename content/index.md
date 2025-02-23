@@ -200,8 +200,6 @@ title: Content Feed
 
 1. **I Built a Life-Size Sonic That Can Cut You in Half**
 
-	[I Built a Life-Size Sonic That Can Cut You in Half](https://www.youtube.com/watch?app=desktop&v=cHSrmyTfs-I)
-
 1. **Great momo cooking tutorial**
 
 	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
