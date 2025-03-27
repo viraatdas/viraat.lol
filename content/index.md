@@ -182,6 +182,8 @@ title: Content Feed
 
 1. **What Gödel Discovered**
 
+	[What Gödel Discovered](https://stopa.io/post/269)
+
 ## January 20, 2024
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
