@@ -118,6 +118,8 @@ title: Content Feed
 
 1. **My answer to "how do you defend someone you think is guilty"**
 
+	[My answer to "how do you defend someone you think is guilty"](https://www.youtube.com/watch?v=A4Ncs9gXBAI)
+
 1. **What is an FPGA ? | How to program FPGA Board? | Introduction to FPGA | FPGA Tutorials**
 
 	[What is an FPGA ? | How to program FPGA Board? | Introduction to FPGA | FPGA Tutorials](https://www.youtube.com/watch?v=ieu0o93-wNI)
