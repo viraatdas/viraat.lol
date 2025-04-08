@@ -170,6 +170,8 @@ title: Content Feed
 
 1. **Why North Korea is so good at propaganda**
 
+	[Why North Korea is so good at propaganda](https://www.youtube.com/watch?v=chAcK_3zBSY&t=563s)
+
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
@@ -205,6 +207,8 @@ title: Content Feed
 	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
+
+	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
 
 ## January 18, 2024
 
