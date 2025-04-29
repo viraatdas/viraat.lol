@@ -38,7 +38,11 @@ title: Content Feed
 
 1. **Cool blackhole physics**
 
+	[The Problem With Interstellar's Black Hole that Everyone Ignores](https://youtu.be/OWeW6kTcoRg?si=mFkl5irRJQbM1iEx)
+
 1. **Magnetizer**
+
+	[I accidentally killed this magnet](https://youtube.com/shorts/6EYWniWuPQM?si=qJJfziYTZo2fyhZa)
 
 ## March 26, 2024
 
@@ -58,6 +62,8 @@ title: Content Feed
 
 1. **Cool machine learning-y puzzle**
 
+	[HackMIT 2019 Puzzle 6](https://vey.ie/HackMIT2019-Puzzle6.html)
+
 ## February 23, 2024
 
 1. **Triads**
@@ -68,7 +74,11 @@ title: Content Feed
 
 1. **Brains are decoders**
 
+	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
+
 1. **GPT tokenizer**
+
+	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
 
 1. **Hacking car entrance**
 
