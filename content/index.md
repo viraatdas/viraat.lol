@@ -48,8 +48,6 @@ title: Content Feed
 
 1. **Traffic signals**
 
-	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
-
 1. **All three holes**
 
 	[All Three Holes](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
@@ -96,8 +94,6 @@ title: Content Feed
 
 1. **Math is lonely**
 
-	[doing math is lonely](https://www.youtube.com/watch?v=LEsI4kPEkgw)
-
 ## February 17, 2024
 
 1. **Verilog**
@@ -126,8 +122,6 @@ title: Content Feed
 
 1. **NVDLA Documentation**
 
-	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
-
 ## February 5, 2024
 
 1. **19 year old crossing the Pacific alone**
@@ -141,8 +135,6 @@ title: Content Feed
 ## February 4, 2024
 
 1. **How petrol pumps know when to turn themselves off**
-
-	[How petrol pumps know when to turn themselves off](https://youtu.be/fT2KhJ8W-Kg?si=D8d-HvKblKSF-cAX)
 
 ## January 29, 2024
 
