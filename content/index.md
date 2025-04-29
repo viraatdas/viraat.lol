@@ -38,15 +38,13 @@ title: Content Feed
 
 1. **Cool blackhole physics**
 
-	[The Problem With Interstellar's Black Hole that Everyone Ignores](https://youtu.be/OWeW6kTcoRg?si=mFkl5irRJQbM1iEx)
-
 1. **Magnetizer**
-
-	[I accidentally killed this magnet](https://youtube.com/shorts/6EYWniWuPQM?si=qJJfziYTZo2fyhZa)
 
 ## March 26, 2024
 
 1. **Traffic signals**
+
+	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
 
 1. **All three holes**
 
@@ -60,8 +58,6 @@ title: Content Feed
 
 1. **Cool machine learning-y puzzle**
 
-	[HackMIT 2019 Puzzle 6](https://vey.ie/HackMIT2019-Puzzle6.html)
-
 ## February 23, 2024
 
 1. **Triads**
@@ -72,11 +68,7 @@ title: Content Feed
 
 1. **Brains are decoders**
 
-	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
-
 1. **GPT tokenizer**
-
-	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
 
 1. **Hacking car entrance**
 
@@ -93,6 +85,8 @@ title: Content Feed
 ## February 20, 2024
 
 1. **Math is lonely**
+
+	[doing math is lonely](https://www.youtube.com/watch?v=LEsI4kPEkgw)
 
 ## February 17, 2024
 
@@ -122,6 +116,8 @@ title: Content Feed
 
 1. **NVDLA Documentation**
 
+	[NVDLA Primer — NVDLA Documentation](http://nvdla.org/primer.html)
+
 ## February 5, 2024
 
 1. **19 year old crossing the Pacific alone**
@@ -135,6 +131,8 @@ title: Content Feed
 ## February 4, 2024
 
 1. **How petrol pumps know when to turn themselves off**
+
+	[How petrol pumps know when to turn themselves off](https://youtu.be/fT2KhJ8W-Kg?si=D8d-HvKblKSF-cAX)
 
 ## January 29, 2024
 
