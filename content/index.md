@@ -170,8 +170,6 @@ title: Content Feed
 
 1. **Why North Korea is so good at propaganda**
 
-	[Why North Korea is so good at propaganda](https://www.youtube.com/watch?v=chAcK_3zBSY&t=563s)
-
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
