@@ -164,31 +164,21 @@ title: Content Feed
 
 1. **Making coffee with olive oil**
 
-	[Making coffee with olive oil](https://m.youtube.com/shorts/sFqL4WP-5Vw)
-
 ## January 26, 2024
 
 1. **Why North Korea is so good at propaganda**
-
-	[Why North Korea is so good at propaganda](https://www.youtube.com/watch?v=chAcK_3zBSY&t=563s)
 
 ## January 25, 2024
 
 1. **How Facebook Became a Tool for Genocide**
 
-	[How Facebook Became a Tool for Genocide](https://m.youtube.com/watch?v=K8B0bWO9u3M)
-
 ## January 24, 2024
 
 1. **What Gödel Discovered**
 
-	[What Gödel Discovered](https://stopa.io/post/269)
-
 ## January 20, 2024
 
 1. **FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease**
-
-	[FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
 
 ## January 19, 2024
 
@@ -200,11 +190,7 @@ title: Content Feed
 
 1. **I Built a Life-Size Sonic That Can Cut You in Half**
 
-	[I Built a Life-Size Sonic That Can Cut You in Half](https://www.youtube.com/watch?app=desktop&v=cHSrmyTfs-I)
-
 1. **Great momo cooking tutorial**
-
-	[Momo - Are they South Asia’s Best Dumplings?](https://www.youtube.com/watch?v=5gDoE_fgm0Y)
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
 
@@ -214,15 +200,9 @@ title: Content Feed
 
 1. **How Benjamin Netanyahu Relies on Hamas**
 
-	[How Benjamin Netanyahu Relies on Hamas](https://www.youtube.com/watch?v=2PeYDphtHYo)
-
 1. **The English language is not good for politics**
 
-	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
-
 1. **Alien life might be linked to human evolution**
-
-	[Ancient Life as Old as the Universe](https://www.youtube.com/watch?v=JOiGEI9pQBs&t=321s)
 
 1. **Interesting windmill IMO problem**
 
