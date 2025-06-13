@@ -208,6 +208,8 @@ title: Content Feed
 
 1. **The coolest video I have seen in a while!! *****There is no such thing as mass***** well explained**
 
+	[Why light has energy, but no mass? (Understanding E = mc2)](https://m.youtube.com/watch?v=wiBsfvW5AWY)
+
 ## January 18, 2024
 
 1. **How Benjamin Netanyahu Relies on Hamas**
@@ -215,6 +217,8 @@ title: Content Feed
 	[How Benjamin Netanyahu Relies on Hamas](https://www.youtube.com/watch?v=2PeYDphtHYo)
 
 1. **The English language is not good for politics**
+
+	[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 
 1. **Alien life might be linked to human evolution**
 
