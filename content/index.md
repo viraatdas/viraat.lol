@@ -74,6 +74,8 @@ title: Content Feed
 
 1. **Brains are decoders**
 
+	[Viraat Das 🐪 on Twitter](https://x.com/therealviraat/status/1760172810083696998?s=20)
+
 1. **GPT tokenizer**
 
 	[Andrej Karpathy on Twitter](https://x.com/karpathy/status/1759996549109776702?s=20)
