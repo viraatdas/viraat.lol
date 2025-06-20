@@ -114,6 +114,8 @@ title: Content Feed
 
 1. **DIY Battery Testing Robot**
 
+	[DIY Battery Testing Robot [ Part Two ]](https://www.youtube.com/watch?v=Gp6T2UscHwc)
+
 1. **My answer to "how do you defend someone you think is guilty"**
 
 	[My answer to "how do you defend someone you think is guilty"](https://www.youtube.com/watch?v=A4Ncs9gXBAI)
