@@ -96,8 +96,6 @@ title: Content Feed
 
 1. **Math is lonely**
 
-	[doing math is lonely](https://www.youtube.com/watch?v=LEsI4kPEkgw)
-
 ## February 17, 2024
 
 1. **Verilog**
