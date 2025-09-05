@@ -62,8 +62,6 @@ title: Content Feed
 
 1. **Cool machine learning-y puzzle**
 
-	[HackMIT 2019 Puzzle 6](https://vey.ie/HackMIT2019-Puzzle6.html)
-
 ## February 23, 2024
 
 1. **Triads**
