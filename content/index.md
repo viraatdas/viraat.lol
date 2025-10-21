@@ -42,11 +42,11 @@ title: Content Feed
 
 1. **Magnetizer**
 
-	[I accidentally killed this magnet](https://youtube.com/shorts/6EYWniWuPQM?si=qJJfziYTZo2fyhZa)
-
 ## March 26, 2024
 
 1. **Traffic signals**
+
+	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
 
 1. **All three holes**
 
