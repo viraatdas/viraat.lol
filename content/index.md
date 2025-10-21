@@ -48,8 +48,6 @@ title: Content Feed
 
 1. **Traffic signals**
 
-	[Something Fascinating About Traffic Signals](https://youtube.com/shorts/b8uP9EB9H_A?si=icZmHef-bcHEXE1W)
-
 1. **All three holes**
 
 	[All Three Holes](https://youtube.com/shorts/9x1JPCcNe2w?si=WDCaorOJmboYfNBW)
