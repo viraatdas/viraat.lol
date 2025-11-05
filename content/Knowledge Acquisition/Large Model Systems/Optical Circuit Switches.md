@@ -1,0 +1,2 @@
+An Optical Circuit Switch (OCS) is a network device that uses optical technology to switch data paths between optical fibers. Unlike traditional electronic switches, which convert optical signals to electrical signals for switching and then back to optical signals, OCSes handle the data entirely in the optical domain. This approach provides several benefits, including reduced latency, higher bandwidth, and lower power consumption.
+

@@ -1,0 +1,3 @@
+- Dedicated architecture for accelerating embeddings in Deep Learning Recommendation Models (DLRMs).
+- Supports efficient dataflow and memory operations, improving performance for sparse operations.
+- Contributes to the system's overall performance without significant area and power costs.

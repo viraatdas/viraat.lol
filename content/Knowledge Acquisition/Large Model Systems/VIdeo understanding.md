@@ -1,0 +1,1 @@
+- accomplished by encoding the video as a sequence of frames in the large context window. 

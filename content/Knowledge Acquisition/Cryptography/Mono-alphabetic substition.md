@@ -1,0 +1,3 @@
+- Associate letters of the english alphabet with numbers `0,...,25`. Let $p_i$, for $0 \leq i \leq 25$ denote probability of ith letter in normal English text
+- Simple calculation gives $\sum_{i=0}^{25}p_i^2 \approx 0.065$
+- Say we are given some ciphertext and let $q_i$ denote the probability of the ith letter. ($q_i$ is simple the number of occurences of the ith letter divided by the length of the ciphertext). If the key is `k` then we can expect that $q_{i+k}$ should be roughly equal to $p_i$ for every $i$ [They are using i+k instead of the more cumbersome [i+k mod 26]]. Equivalent if we compute

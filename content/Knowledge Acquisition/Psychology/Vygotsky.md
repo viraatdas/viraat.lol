@@ -1,0 +1,2 @@
+- **Zone of Proximal Development (ZPD):** The difference between what a learner can do without help and what they can achieve with guidance.
+- **Scaffolding:** Supportive activities provided by a more knowledgeable other to help the learner achieve the next level of understanding.

@@ -1,0 +1,1 @@
+For example colliding with hydrogen or carbon, it slows down its speed

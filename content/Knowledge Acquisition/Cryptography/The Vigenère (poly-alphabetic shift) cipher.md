@@ -1,0 +1,2 @@
+- mapping different instances of the same plaintext character to different ciphertext characters
+- this has the effect of "smoothing out" the probability distribution of characters in the ciphertext
