@@ -6,10 +6,6 @@ title: Content Feed
 
 *Curious what Viraat is consuming? No? Still consume and become smarter.*
 
-<br/>
-
-Made by [Viraat](https://viraat.dev/)
-
 # June 7, 2024
 
 - [Khalistan Explained](https://www.youtube.com/watch?app=desktop&v=JAk83kdnFrQ)
