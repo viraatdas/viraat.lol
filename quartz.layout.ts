@@ -7,7 +7,6 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/viraatdas/notes",
       "Made by Viraat": "https://viraat.dev/",
     },
   }),
