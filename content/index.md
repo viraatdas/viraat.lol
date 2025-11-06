@@ -6,18 +6,6 @@ title: Content Feed
 
 *Curious what Viraat is consuming? No? Still consume and become smarter.*
 
-<br/>
-
-**Links:**
-
-- [Knowledge Acquisition](https://viraat.lol/knowledge-acquisition/)
-
-- [About Me](https://viraat.lol/about-me)
-
-- [Personal Links](https://viraat.lol/links)
-
-<br/>
-
 ## June 7, 2024
 
 1. [Khalistan Explained](https://www.youtube.com/watch?app=desktop&v=JAk83kdnFrQ)
